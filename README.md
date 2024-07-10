@@ -1,6 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Quiz App
 
-## Getting Started
+This app was made just to learn some react, next and typescript (monolith)
+
+Feel free to contribute :)
+
+
+## Diagram
+
+This is the first idea of the app.
+
+We need to make a quiz app that a user can create a quiz to her friends answer.
+![image](https://github.com/gvieiragoulart/quiz/assets/116896794/3b7aaaa6-e750-47ce-b0f0-177e9656c9ed)
+
 
 First, run the development server:
 
